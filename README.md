@@ -20,13 +20,13 @@
 **v免签安卓监控端：** https://github.com/szvone/VmqApk
 
 ```diff
- this will be highlighted in green
- this will be highlighted in red
++ this will be highlighted in green
+- this will be highlighted in red
 ```
 
 #### 演示环境基于宝塔面板搭建，使用nginx1.18、php7.3、mysql5.6 已实测该环境正常搭建可用
 
-#### 该程序不支持  ***PHP7.4***    请使用  **PHP5.6~php7.3**
+#### 该程序不支持  'PHP7.4'  请使用 'PHP5.6~php7.3'
 
 #### 请严格按照教程步骤来搭建，搭建后首页登录就是后台，不需要访问域名/admin！默认账密均为admin
 
