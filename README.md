@@ -2,20 +2,26 @@
 ## V免签(PHP) 是基于Thinkphp5.1 + mysql 实现的一套免签支付程序，主要包含以下特色：
 
 1.收款即时到账，无需进入第三方账户，收款更安全
+
 2.提供示例代码简单接入
+
 3.超简单Api使用，提供统一Api实现收款回调
+
 4.免费、开源，无后门风险
+
 5.支持监听店员收款信息，可使用支付宝微信小号/模拟器挂机，方便IOS用户
+
 6.免root，免xp框架，不修改支付宝/微信客户端，防封更安全
 
-**V免签现已开发了免费PC监控端：https://gitee.com/pmhw/Vpay
+**V免签现已开发了免费PC监控端：** https://gitee.com/pmhw/Vpay
 
-**v免签官方源码：https://github.com/szvone/vmqphp   
+**v免签官方源码：** https://github.com/szvone/vmqphp   
 
-**v免签安卓监控端：https://github.com/szvone/VmqApk
+**v免签安卓监控端：** https://github.com/szvone/VmqApk
 
-演示环境基于宝塔面板搭建，使用nginx1.18、php7.3、mysql5.6 已实测该环境正常搭建可用 
-该程序不支持$\color{#FF0000}{PHP7.4}$，请使用$\color{#FF0000}{PHP5.6以上~7.3}$  请严格按照教程步骤来搭建，搭建后首页登录就是后台，不需要访问域名/admin！默认账密均为admin
+### <table><tr><td bgcolor=#FF83FA>演示环境基于宝塔面板搭建，使用nginx1.18、php7.3、mysql5.6 已实测该环境正常搭建可用</td></tr></table>
+
+### 该程序不支持<font color=red>PHP7.4</font>，请使用$\color{#FF0000}{PHP5.6以上~7.3}$  请严格按照教程步骤来搭建，搭建后首页登录就是后台，不需要访问域名/admin！默认账密均为admin
 
 1、下载v免签压缩包，上传至服务器并解压
 
