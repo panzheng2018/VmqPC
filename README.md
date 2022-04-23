@@ -1,4 +1,5 @@
-# V免签(PHP) 是基于Thinkphp5.1 + mysql 实现的一套免签支付程序，主要包含以下特色：
+# 超详细的V免签支付系统搭建图文教程
+## V免签(PHP) 是基于Thinkphp5.1 + mysql 实现的一套免签支付程序，主要包含以下特色：
 
 1.收款即时到账，无需进入第三方账户，收款更安全
 2.提供示例代码简单接入
@@ -20,8 +21,6 @@ v免签安卓监控端：https://github.com/szvone/VmqApk
 
 2、关闭防跨站攻击，设置运行目录为public并保存
 
-图片[1]-超详细的V免签支付系统搭建图文教程-A17资源网
-![输入图片说明](https://img.a17cn.admin17.net/wp-content/uploads/2022/04/202107252154189798629.png)
 ![输入图片说明](https://img.a17cn.admin17.net/wp-content/uploads/2022/04/202107252154189798629.png "屏幕截图.png")
 3、设置伪静态为thinkphp并保存
 
