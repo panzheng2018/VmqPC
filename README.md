@@ -19,12 +19,8 @@
 
 **v免签安卓监控端：** https://github.com/szvone/VmqApk
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
 
-#### 演示环境基于宝塔面板搭建，使用nginx1.18、php7.3、mysql5.6 已实测该环境正常搭建可用
+#### 演示环境基于宝塔面板搭建，使用  `nginx1.18`、`php7.3`、`mysql5.6` 已实测该环境正常搭建可用
 
 #### 该程序不支持  `PHP7.4`  请使用 ``PHP5.6~php7.3``
 
